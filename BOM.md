@@ -17,7 +17,7 @@
 | [MPU6050 module](https://www.amazon.in/Robocraze-MPU-6050-Gyroscope-Accelerometer-Arduino/dp/B07H3XH1TB/ref=sr_1_1?sr=8-1) | Wi-Fi and the main loop (microcontroller) | 1 | $3.00 | $3.00 | [Amazon.in (or whichever store you use)](https://www.amazon.in/Robocraze-MPU-6050-Gyroscope-Accelerometer-Arduino/dp/B07H3XH1TB/ref=sr_1_1?sr=8-1) |
 | [DHT11 sensor](https://www.amazon.in/SP-Electron-SEN50-Relative-Temperature/dp/B0GHSJTWYJ/ref=sr_1_6?sr=8-6) | Wi-Fi and the main loop (microcontroller) | 1 | $5.00 | $5.00 | [Amazon.in (or whichever store you use)](https://www.amazon.in/SP-Electron-SEN50-Relative-Temperature/dp/B0GHSJTWYJ/ref=sr_1_6?sr=8-6) |
 | **Parts subtotal** | — | — | — | **$12.50** | — |
-| **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$42.50** | — |
+| **Tax & shipping** | — | — | — | **$0.30** | — |
+| **Total** | — | — | — | **$12.80** | — |
 
-**$12.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$17.20 left of the tier's funding.
